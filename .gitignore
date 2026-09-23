@@ -1,0 +1,23 @@
+# build artifacts
+build/
+*.o
+*.d
+*.so
+*.a
+
+# macOS
+.DS_Store
+
+# editor
+.vscode/
+.idea/
+*.swp
+
+# soak/runtime output — raw soak logs ARE a graded deliverable, so they get
+# committed deliberately under soak-logs/, not swept up from wherever they land
+*.tmp
+core
+core.*
+
+# NOTE: transcripts/**/*.jsonl are intentionally NOT ignored. They are a graded
+# deliverable and committing them is how they survive the 30-day local purge.
