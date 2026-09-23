@@ -5,7 +5,7 @@ This repository will stand as the work process for our term project.
 CS 370 (Operating Systems) — Colorado State University, Fall 2026.
 Prof. Shrideep Pallickara.
 
-**Team:** Nick Marechal, TEAMMATE-NAME-TODO
+**Team:** Nick Marechal, Liam Sagal
 
 > **Status: M0.** Repo and `CLAUDE.md` initialized; transcripts being copied out per milestone.
 > The device concept is not yet locked — see `PROBLEM.md`. The repo name is a placeholder and

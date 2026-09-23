@@ -60,4 +60,8 @@ sessions. Working in one shared login defeats this and costs **both** partners.
   they come from the parent `CS 370` project directory and cover **all** CS 370 work in that
   window (HW1 and term-project ideation together). Copied as-is, unedited, as required. Sessions
   from here on will be scoped to this repo's own project directory.
-- `partner/` — empty until the teammate joins and copies theirs in.
+- `liam/2026-09-23-m1/` — Liam Sagal's sessions from this repo's own project directory
+  (`~/.claude/projects/-s-parsons-g-under-C837127061-cs370-Term-Project/`). Copied as-is,
+  unedited.
+- `partner/` — empty placeholder from the initial setup. Each partner uses their own named
+  folder (`nick/`, `liam/`) instead.

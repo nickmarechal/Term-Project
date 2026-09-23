@@ -17,7 +17,7 @@ and is not required to work in this repo.)
   vehicles — *not* "my car vs. a lookalike," which the 1/r^3 falloff of a magnetic dipole makes
   unreliable at this price point. Requires a week-1 signature-repeatability test before the
   problem memo commits to it.
-- **Team:** Nick Marechal + TEAMMATE-NAME-TODO.
+- **Team:** Nick Marechal + Liam Sagal.
 - **Hardware:** not yet ordered. Shipping time is the most common silent schedule-killer
   (spec §16) — order the day the idea is picked.
 - **Repo name:** `term-project` for now. Rename once the idea is locked.

@@ -1,4 +1,4 @@
-# Problem memo -- TEAM-NAME-TODO (Nick Marechal, TEAMMATE-NAME-TODO)
+# Problem memo -- TEAM-NAME-TODO (Nick Marechal, Liam Sagal)
 
 > **STATUS: NOT YET WRITTEN.** The idea is not locked. This file is the Appendix C template with
 > our current leading candidate sketched in as a starting point — it is *not* a submission and
