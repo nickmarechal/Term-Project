@@ -63,5 +63,5 @@ sessions. Working in one shared login defeats this and costs **both** partners.
 - `liam/2026-09-23-m1/` — Liam Sagal's sessions from this repo's own project directory
   (`~/.claude/projects/-s-parsons-g-under-C837127061-cs370-Term-Project/`). Copied as-is,
   unedited.
-- `partner/` — empty placeholder from the initial setup. Each partner uses their own named
-  folder (`nick/`, `liam/`) instead.
+Each partner uses their own named folder (`nick/`, `liam/`). The `partner/` placeholder from the
+initial setup has been removed now that both are populated.

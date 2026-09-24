@@ -1,6 +1,6 @@
 # Dark Sky Monitor — Engineering Design Review
 
-**Date:** 2026-09-23 · **Team:** Nick Marechal + TBD · **Status:** pre-M2 analysis
+**Date:** 2026-09-23 · **Team:** Nick Marechal + Liam Sagal · **Status:** pre-M2 analysis
 **Scope:** turning "Dark Sky Monitor" into a defensible CS 370 term project.
 
 This document is a critical design review, not a cheerleading document. Sections marked
